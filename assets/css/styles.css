@@ -205,6 +205,10 @@ nav.cd-menu {
     align-items: center;
 }
 
+.cd-our-projects-carousel .owl-item{
+    transition: .25s ease-in-out;
+}
+
 .cd-our-projects-carousel .owl-item.active {
     transform: scale(1);
     opacity: 1;
